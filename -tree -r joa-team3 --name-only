@@ -1,0 +1,10 @@
+[33m3951b69[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from joa-team3 to main
+[33m9ca1fcb[m[33m ([m[1;31morigin/joa-team3[m[33m, [m[1;32mjoa-team3[m[33m)[m HEAD@{1}: commit: week 3
+[33m3951b69[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: checkout: moving from main to joa-team3
+[33m3951b69[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: commit: Fixing the import statements
+[33m155cfea[m[33m ([m[1;31morigin/joa--indidual2[m[33m)[m HEAD@{4}: merge joa--indidual2: Fast-forward
+[33m4e64890[m[33m ([m[1;31morigin/joa-individual1[m[33m, [m[1;32mjoa-individual1[m[33m, [m[1;32minitials--individual2[m[33m, [m[1;32mbackup-before-recovery[m[33m)[m HEAD@{5}: checkout: moving from main to main
+[33m4e64890[m[33m ([m[1;31morigin/joa-individual1[m[33m, [m[1;32mjoa-individual1[m[33m, [m[1;32minitials--individual2[m[33m, [m[1;32mbackup-before-recovery[m[33m)[m HEAD@{6}: checkout: moving from joa--indidual2 to main
+[33m155cfea[m[33m ([m[1;31morigin/joa--indidual2[m[33m)[m HEAD@{7}: commit: individual work week 2
+[33m4e64890[m[33m ([m[1;31morigin/joa-individual1[m[33m, [m[1;32mjoa-individual1[m[33m, [m[1;32minitials--individual2[m[33m, [m[1;32mbackup-before-recovery[m[33m)[m HEAD@{8}: checkout: moving from initials--individual2 to joa--indidual2
+[33m4e64890[m[33m ([m[1;31morigin/joa-individual1[m[33m, [m[1;32mjoa-individual1[m[33m, [m[1;32minitials--individual2[m[33m, [m[1;32mbackup-before-recovery[m[33m)[m HEAD@{9}: checkout: moving from initials--individual2 to initials--individual2
