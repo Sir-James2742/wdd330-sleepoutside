@@ -39,6 +39,14 @@ parentElement.innerHTML = template;
     callback(data);
   }
 }
+
+export function getParam(param) {
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const product = urlParams.get(param);
+  return product
+}
+
 export const loadTemplate = async (path) => {
   const response = await fetch(path);
   const template = await response.text();
