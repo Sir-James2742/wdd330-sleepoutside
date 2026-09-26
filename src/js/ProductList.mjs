@@ -19,8 +19,8 @@ export default class ProductList {
         this.listElement = listElement;
     }
     async init() {
-        const products = await this.datasource.getData();
-        this.renderList(products);
+        const list = await this.dataSource.getData(this.category);;
+        this.renderList(list);
     }
     renderList(list) {
         renderListWithTemplate(
